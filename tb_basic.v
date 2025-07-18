@@ -1,3 +1,5 @@
+///testbench to generate waveform and analyze it 
+/// Note: Run it a little bit longer to analyze
 module tb();
  
 reg clk = 0, rst = 0, newd = 0;
